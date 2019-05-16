@@ -1,3 +1,5 @@
+from solid.utils import *
+
 class assembly():
     trans = [0,0,0]
     rot = [0,0,0]
